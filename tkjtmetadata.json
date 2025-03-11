@@ -1,0 +1,9 @@
+{
+  "name": "TKJTOKEN",
+  "symbol": "TKJT",
+  "description": "TKJ Token for education",
+  "image": "https://raw.githubusercontent.com/jhona9670/TKJToken/refs/heads/main/tkjt.jpg",
+  "creator": {
+    "name": "jhona"
+  }
+}
