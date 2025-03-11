@@ -3,7 +3,18 @@
   "symbol": "TKJT",
   "description": "TKJ Token for education",
   "image": "https://res.cloudinary.com/dviw51sdr/image/upload/v1741679362/rlejqyvekkdnkxf3hezm.jpg",
-  "creator": {
-    "name": "jhona"
+  "properties": {
+    "creators": [
+      {
+        "address": "5jBoVsRw4fGYx1MHBQfF9k7bCy29ZRpNAJoRtNuffWCa",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://res.cloudinary.com/dviw51sdr/image/upload/v1741679362/rlejqyvekkdnkxf3hezm.jpg",
+        "type": "image/jpeg"
+      }
+    ]
   }
 }
